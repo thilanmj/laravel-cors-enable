@@ -4,7 +4,7 @@
 
 - Run **composer install**.
 - setup .env file with your database configuration.
-- Run **php artisan mmigrate**.
+- Run **php artisan migrate**.
 - Run **php artisan db:seed --class=AdminUserSeede**r.
 - Run **php artisan passport:install**.
 - Run **php artisan serve**.
